@@ -6,3 +6,4 @@ class Demo
 			System.out.println("Hello world");
 		}
 }
+public class A extends Demo
